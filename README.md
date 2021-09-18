@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Santiago, a computer engineer student at National University of Cordoba in Argentina.
+
+I use github primarily for college projects.
+
+In the future I hope to collab with different projects to give something back to the awesome open source community.
+
 <!--
 **Ingsantirodriguez/Ingsantirodriguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
